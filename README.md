@@ -1,2 +1,2 @@
 # Language_Study
-C, C++, C# 언어 공부
+C, C++, C#, Python 공부
